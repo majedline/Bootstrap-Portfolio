@@ -1,0 +1,25 @@
+
+.container-border {
+  border-style: solid;
+  border-color: yellow;
+  background-color: blue;
+}
+.row-border {
+  border-style: solid;
+  border-color: green;
+  background-color: red;
+}
+.col-border {
+  border-style: solid;
+  border-color: purple;
+  background-color: #eec985;
+}
+
+
+.topLeft {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    float: left;
+    width:300px;
+    text-align: center;
+  }
