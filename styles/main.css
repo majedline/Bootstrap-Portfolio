@@ -58,3 +58,7 @@ body {
     color:#cccccc;
     text-align: center;
 }
+
+.thumbnail-margin {
+    margin: 10px;
+}
